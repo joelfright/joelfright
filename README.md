@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Joel Fright, a junior Java developer working at Sparta Global. 
+I'm Joel Fright, a Junior Java Developer and SDET working at Sparta Global. 
 I am currently in the process of training.
 
 ### Skills
